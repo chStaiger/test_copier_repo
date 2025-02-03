@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+title: "test_copier_repo"
+authors:
+  - family-names: Notyou
+    given-names: Me
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-02-03
+version: "0.0.1"
+repository-code: "https://github.com/chStaiger/test_copier_repo"
+keywords:
+  - "test"
+message: "If you use this software, please cite it using these metadata."

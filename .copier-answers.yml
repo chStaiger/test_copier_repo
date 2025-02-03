@@ -1,0 +1,36 @@
+# Changes here will be overwritten by Copier
+SelectCitation:
+- AddCitationFile_flag
+- AddCFFConvert_flag
+SelectCodeQualityFeatures:
+- AddLocalTests_flag
+- SelectGitHubActions_flag
+- AddLinting_flag
+- AddSonarCloud_flag
+- AddEditorConfig_flag
+SelectCommunityFeatures:
+- AddCodeConduct_flag
+- AddContributing_flag
+SelectDocumentationFeatures:
+- AddLocalDocumentation_flag
+- AddOnlineDocumentation_flag
+- AddDevDoc_flag
+- AddGitHubActionDocumentation_flag
+SelectGitHubActions:
+- AddGitHubActionBuild_flag
+SelectPublishReleaseFeatures:
+- SelectCitation_flag
+- AddZenodo_flag
+_commit: 0.6.1
+_src_path: gh:nlesc/python-template
+code_of_conduct_email: c.staiger@uu.nl
+copyright_holder: Me Notyou
+email: c.staiger@uu.nl
+full_name: Me Notyou
+github_organization: chStaiger
+keywords: test
+license: MIT
+package_name: test_copier_repo
+package_short_description: Blabla
+template_profile: recommended
+version: 0.0.1
